@@ -1,0 +1,58 @@
+body {
+    background-color: darkkhaki;
+}
+h1  {
+    color: brown;
+    background-color: chartreuse;
+    inline-size: 300px;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif
+    
+}
+
+h2  {
+    color: chartreuse;
+    background-color: blue;
+    inline-size: 300px;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3  {
+    color:bisque;
+    background-color: black;
+    inline-size: 300px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif
+}
+
+h4  {
+    color: khaki;
+    background-color: gold;
+    inline-size: 300px;
+    u
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif
+}
+
+h5  {
+    color: red;
+    background-color: grey;
+    inline-size: 300px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif
+}
+
+h6  {
+    color: brown;
+    background-color: chartreuse;
+    inline-size: 300px;
+    font-size: 10px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif
+}
